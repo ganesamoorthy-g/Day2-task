@@ -1,0 +1,14 @@
+
+Document object:
+The Document object represents the web page content and provides methods and properties to manipulate and interact with the content. 
+It corresponds to the HTML document loaded in the browser. The Document object includes properties like document.
+title (the title of the web page), document.body (the body element of the web page), and methods like getElementById() and
+ querySelector() to select and manipulate elements within the document.
+
+
+Window Object:
+The Window object represents the web browser window or tab that contains the web page. 
+It serves as the global object for the browser's JavaScript environment and provides methods and properties to control the 
+browser window, navigate between pages, and interact with the browser itself. 
+The Window object includes properties like window.location (the URL of the current page), window.innerWidth and window.innerHeight 
+(dimensions of the browser window), and methods like window.alert() and window.open().
